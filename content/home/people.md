@@ -53,4 +53,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["60px", "10px", "30px", "10px"]
 +++

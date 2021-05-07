@@ -12,6 +12,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["60px", "10px", "10px", "10px"] 
+
 #title: Biography
 
 # Choose the user profile to display

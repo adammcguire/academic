@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Colby Elmore
+title: Katrina Henley
 
 # Username (this should match the folder name)
 authors:
-- Colby_E
+- Katrina_H
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" 
-
+bio: ""
 
 #interests:
 #- interest 1
@@ -28,9 +27,9 @@ bio: ""
 
 education:
   courses:
-  - course: BA in Psychology
-    institution: The University of Texas at Tyler, Tyler, TX
-    year: 2021
+  - course: BS in  Psychology
+    institution: University of Texas at Tyler, Tyler, TX
+    year: Expected 2023
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -38,10 +37,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:celmore3@patriots.uttyler.edu"
+  link: "mailto:khenley@patriots.uttyler.edu"
 #- icon: cv
 #  icon_pack: ai
-#  link: 'static/media/cv_ColbyE.pdf'
+#  link: 'static/media/cv_KatrinaH.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -54,4 +53,4 @@ highlight_name: false
 user_groups:
 - Undergraduate Students
 ---
-I am interested broadly in understanding what leads individuals to voluntary and involuntary social withdrawal. My specific research interests include the phenomenon of acute social withdrawal, anxiety disorders, particularly social anxiety disorder and agoraphobia. My current research is focused on understanding social isolation. 
+My research interests revolve around PTSD specific in sexual assault survivors in civilian life and in the military. I enjoy research that looks into the shame and tramatic responses that follow a sexual assault as well as how to change the stigma of being a sexual assault survivor. 

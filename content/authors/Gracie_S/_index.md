@@ -27,8 +27,11 @@ bio: ""
 
 education:
   courses:
-  - course: BA in  Psychology
-    institution: University of Texas at Austin, Austin, TX
+  - course: MS in Clinical Psychology
+    institution: The University of Texas at Tyler, Tyler, TX
+    year: Expected 2021
+  - course: BA in Psychology
+    institution: The University of Texas at Austin, Austin, TX
     year: 2019
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,11 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:gstaley@patriots.uttyler.edu"
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: 'static/media/cv_GracieS.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Colby Elmore
+title: Annika I. Wurm
 
 # Username (this should match the folder name)
 authors:
-- Colby_E
+- Annika_W
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: 2nd Year MS Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" 
-
+bio: ""
 
 #interests:
 #- interest 1
@@ -28,9 +27,12 @@ bio: ""
 
 education:
   courses:
-  - course: BA in Psychology
+  - course: MS in  Clinical Psychology
     institution: The University of Texas at Tyler, Tyler, TX
-    year: 2021
+    year: Expected 2021
+  - course: BS in  Biology
+    institution: The University of North Carolina at Chapel Hill, Chapel Hill, NC
+    year: 2018
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -38,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:celmore3@patriots.uttyler.edu"
-#- icon: cv
-#  icon_pack: ai
-#  link: 'static/media/cv_ColbyE.pdf'
+  link: "mailto:awurm@patriots.uttyler.edu"
+- icon: cv
+  icon_pack: ai
+  link: 'static/media/cv_AnnikaW.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -52,6 +54,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Graduate Students
 ---
-I am interested broadly in understanding what leads individuals to voluntary and involuntary social withdrawal. My specific research interests include the phenomenon of acute social withdrawal, anxiety disorders, particularly social anxiety disorder and agoraphobia. My current research is focused on understanding social isolation. 
+My research interests broadly pertain to trauma, PTSD, and moral injury, particularly in veteran populations. I am interested in how traumatic events shape how we relate to the world and those around us, how and why trauma responses differ from person to person, and how violence is perpetuated. I am currently studying how third-wave therapy interventions can effectively treat and spark resilience in individuals suffering from PTSD and the effects of trauma.

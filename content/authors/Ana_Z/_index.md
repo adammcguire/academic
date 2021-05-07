@@ -27,7 +27,7 @@ bio: ""
 
 education:
   courses:
-  - course: BS in  Psychology
+  - course: BS in Psychology
     institution: University of Texas at Tyler, Tyler, TX
     year: Expected 2022
 # Social/Academic Networking
@@ -38,11 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:avieirazaidan@patriots.uttyler.edu"
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: 'static/media/cv_AnaZ.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
