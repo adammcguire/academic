@@ -21,5 +21,3 @@ advanced:
 ---
 
 <center>{{<figure src="Elevate_LogoV3.png" >}}
-
-<left>The **ELEVATE Research Lab** studies how to integrate positive psychology principles into treatment for veterans suffering from trauma-related distress.

@@ -22,7 +22,8 @@ bio:
 interests:
 - Moral elevation, gratitude
 - PTSD, moral injury, trauma distress
-- Veterans and mental health treatment
+- Positive psychology and mental health treatment
+- Veterans
 
 # Education to show in About widget
 education:
@@ -81,4 +82,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Adam McGuire is the Principal Investigator of the ELEVATE Research Lab and currently holds a dual-appointment as an Assistant Professor at the University of Texas at Tyler and an Investigator at the VISN 17 Center of Excellence (Department of Veterans Affairs). At UT Tyler, he teaches a clinical foundations course (Applied Counseling and Practice) and leads the Veterans' Mental Health Specialty Track within the Clinical Psychology PhD program. He is also a Licensed Psychologist in the state of Texas. For more details, you can download his vitae {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}}.
+Adam McGuire is the Principal Investigator of the ELEVATE Research Lab and currently holds a dual-appointment as an Assistant Professor at the University of Texas at Tyler and an Investigator at the VISN 17 Center of Excellence for Research (Department of Veterans Affairs). At UT Tyler, he teaches a clinical foundations course (Applied Counseling and Practice) and leads the Veterans' Mental Health Specialty Track within the Clinical Psychology PhD program. He is also a Licensed Psychologist in the state of Texas. For more details, you can download his vitae {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}}.

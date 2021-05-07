@@ -40,7 +40,7 @@ subtitle = "What do we do?"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "10px", "40px", "10px"]
+  padding = ["40px", "10px", "30px", "10px"]
 
 [advanced]
  # Custom CSS. 
@@ -49,21 +49,23 @@ subtitle = "What do we do?"
  # CSS class.
  css_class = ""
 +++
+The **ELEVATE Research Lab** studies how to integrate positive psychology principles into treatment for veterans suffering from trauma-related distress.
+
 {{< spoiler text="Improving our understanding of prosocial emotions">}}
-  - _Moral elevation: feeling inspired or uplifted after witnessing someone perform a virtuous act_
-  - _Gratitude: acknowledging and expressing thanks for benefits experienced_
+  - Moral elevation: feeling inspired or uplifted after witnessing someone perform a virtuous act
+  - Gratitude: acknowledging and expressing thanks for benefits experienced
 {{< /spoiler >}}
 {{< spoiler text="Investigating prosocial emotions in experimental settings">}}
-  - _Can we elicit positive, prosocial emotions in veterans with signfiicant PTSD?_
-  - _What are the immediate and delayed effects of exposure to these emotions?_
+  - Can we elicit positive, prosocial emotions in veterans with signfiicant PTSD?
+  - What are the immediate and delayed effects of exposure to these emotions?
 {{< /spoiler >}}
 {{< spoiler text="Examining natural occurrences of positive experiences/emotions">}}
-  - _When are people most likely to experience moral elevation or gratitude?_
-  - _When might this occur in veterans, specifically?_
-  - _What are the innate, demographic, and contextual predictors of experiencing these emotions?_
+  - When are people most likely to experience moral elevation or gratitude?
+  - When might this occur in veterans, specifically?
+  - What are the innate, demographic, and contextual predictors of experiencing these emotions?
 {{< /spoiler >}}
 {{< spoiler text="Treatment development">}}
-  - _Can we develop interventions that incorporate these principles, while remaining feasible and acceptable for veterans?_
-  - _Can we add these principles as supplments to enhance existing interventions and treatments?_
+  - Can we develop interventions that incorporate these principles, which are also feasible and acceptable for veterans?
+  - Can we add these principles as supplements to enhance existing interventions and treatments?
 {{< /spoiler >}}
 
