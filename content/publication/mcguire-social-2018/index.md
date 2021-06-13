@@ -61,6 +61,6 @@ abstract: Social support is a known protective factor against the negative psych
   individuals, and suggest displaced individuals may require more formal supports
   for PTSD symptom reduction following a natural disaster.
 publication: '*Journal of Traumatic Stress*'
-url_pdf: http://doi.wiley.com/10.1002/jts.22270
+url_pdf: publication/mcguire-social-2018/mcguire2018_social.pdf
 doi: 10.1002/jts.22270
 ---

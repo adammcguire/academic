@@ -56,6 +56,6 @@ abstract: Dysfunctional trauma-related cognitions are important in the emergence
   support for the position that attempts to modify dysfunctional trauma-related cognitions
   among veterans with co-occurring PTSD and SUD can lead to desirable treatment outcomes.
 publication: '*Journal of Anxiety Disorders*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0887618518300744
+url_pdf: publication/peck-cognitive-2018/peck2018_cpt.pdf
 doi: 10.1016/j.janxdis.2018.09.001
 ---

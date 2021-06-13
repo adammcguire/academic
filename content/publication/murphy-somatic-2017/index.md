@@ -49,6 +49,5 @@ abstract: Previous research has indicated that at clinical levels, health anxiet
   symptoms may be an important target for interventions seeking to improve HRQOL in
   subclinical populations.
 publication: '*Stress and Health*'
-url_pdf: http://doi.wiley.com/10.1002/smi.2694
 doi: 10.1002/smi.2694
 ---

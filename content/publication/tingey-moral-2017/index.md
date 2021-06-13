@@ -12,7 +12,7 @@ authors:
 - Thane M. Erickson
 tags: []
 categories: []
-date: '2019-05-01'
+date: '2017-05-01'
 lastmod: 2021-04-09T08:28:24-05:00
 featured: false
 draft: false
@@ -48,6 +48,6 @@ abstract: After a mass shooting, community members may experience not only distr
   (95% CI = 2.59 to 5.43). These findings have implications for understanding the
   social and emotional processes that facilitate PTG.
 publication: '*The Journal of Positive Psychology*'
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/17439760.2017.1402077
+url_pdf: publication/tingey-moral-2017/tingey2017_elevation.pdf
 doi: 10.1080/17439760.2017.1402077
 ---

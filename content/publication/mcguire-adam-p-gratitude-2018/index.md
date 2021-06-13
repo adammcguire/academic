@@ -55,5 +55,5 @@ abstract: Whereas past studies primarily examined state-level gratitude measured
   variability in gratitude following both positive and negative events is related
   to positive affective outcomes.
 publication: '*Journal of Positive School Psychology*'
-url_pdf: https://journalppw.com/index.php/JPPW/article/view/91
+url_pdf: publication/mcguire-adam-p-gratitude-2018/mcguire2019_gratitudebetter.pdf
 ---

@@ -49,6 +49,6 @@ abstract: Posttraumatic stress disorder (PTSD) and substance use disorders (SUD)
   is warranted to extend these findings and examine whether IU plays an important
   role in negative/positive urgency for dual-diagnosis populations.
 publication: '*The Journal of Nervous and Mental Disease*'
-url_pdf: https://journals.lww.com/jonmd/Abstract/2021/01000/Examining_the_Link_Between_Intolerance_of.15.aspx
+url_pdf: publication/mcguire-examining-2021/mcguire2021_examining.pdf
 doi: 10.1097/NMD.0000000000001252
 ---

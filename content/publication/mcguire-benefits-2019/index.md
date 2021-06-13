@@ -47,6 +47,6 @@ abstract: Given the prevalence of posttraumatic stress disorder (PTSD) and moral
   indication that elevation could be linked with psychological health and social functioning
   in veterans with significant trauma-related distress.
 publication: '*Military Behavioral Health*'
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/21635781.2018.1540316
+url_pdf: publication/mcguire-benefits-2019/mcguire2019_elevationbenefits.pdf
 doi: 10.1080/21635781.2018.1540316
 ---

@@ -52,6 +52,6 @@ abstract: Laboratory studies suggest that witnessing virtuous acts triggers mora
   brief, regular elevation experiences and have implications for interventions targeting
   specific emotions.
 publication: '*The Journal of Positive Psychology*'
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/17439760.2017.1365163
+url_pdf: publication/erickson-viral-2017/erickson2017_viral.pdf
 doi: 10.1080/17439760.2017.1365163
 ---

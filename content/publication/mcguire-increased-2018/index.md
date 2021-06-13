@@ -56,6 +56,6 @@ abstract: 'Objective: Resilience has been associated with less severe psychiatri
   psychotherapy for comorbid PTSD and substance use disorder may facilitate strength-based
   psychological growth, which may further promote sustained recovery.'
 publication: '*Journal of Dual Diagnosis*'
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/15504263.2018.1464237
+url_pdf: publication/mcguire-increased-2018/mcguire2018_increased.pdf
 doi: 10.1080/15504263.2018.1464237
 ---

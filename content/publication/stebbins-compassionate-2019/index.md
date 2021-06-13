@@ -55,6 +55,6 @@ abstract: 'Introduction: Social support is known to buffer posttraumatic stress 
   the need for further research into compassionate goals and strategies for fostering
   them, particularly in the context of social or community traumas.'
 publication: '*Journal of Social and Clinical Psychology*'
-url_pdf: https://guilfordjournals.com/doi/10.1521/jscp.2019.38.4.277
+url_pdf: publication/stebbins-compassionate-2019/stebbins2019_compassionate.pdf
 doi: 10.1521/jscp.2019.38.4.277
 ---

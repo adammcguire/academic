@@ -49,7 +49,7 @@ subtitle = "What do we do?"
  # CSS class.
  css_class = ""
 +++
-The **ELEVATE Research Lab** studies how to integrate positive psychology principles into treatment for veterans suffering from trauma-related distress.
+The **ELEVATE Research Lab** studies how to integrate positive psychology principles into treatment for veterans suffering from trauma-related distress (click to expand).
 
 {{< spoiler text="Improving our understanding of prosocial emotions">}}
   - Moral elevation: feeling inspired or uplifted after witnessing someone perform a virtuous act

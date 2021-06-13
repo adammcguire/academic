@@ -60,6 +60,6 @@ abstract: "Objectives: The hypothalamic-pituitary-adrenal (HPA) axis is thought 
   \ Conclusions: The findings suggest that stress-reduction interventions based on\
   \ prosocial behavior should target particular motivational and interpersonal features."
 publication: '*Stress*'
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/10253890.2017.1368489
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010267/pdf/nihms-1067388.pdf
 doi: 10.1080/10253890.2017.1368489
 ---

@@ -53,6 +53,6 @@ abstract: Gratitude has been consistently linked to well-being, but its influenc
   on health-related perceptions requires accounting for both between-person individual
   differences and within-person fluctuation in state gratitude.
 publication: '*Psychological Reports*'
-url_pdf: http://journals.sagepub.com/doi/10.1177/0033294119868784
+url_pdf: publication/mcguire-direct-2020/mcguire2020_hrqol.pdf
 doi: 10.1177/0033294119868784
 ---

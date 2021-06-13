@@ -67,6 +67,6 @@ abstract: "Dispositional gratitude may be linked to positive mental health outco
   \ low, moderate, and high dispositional gratitude may help identify those who are\
   \ at increased risk for psychiatric illness and in need of additional support."
 publication: '*Journal of Psychiatric Research*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0022395621000273
+url_pdf: publication/mcguire-dispositional-2021/mcguire2021_dispositional.pdf
 doi: 10.1016/j.jpsychires.2021.01.020
 ---

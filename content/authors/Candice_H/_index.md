@@ -38,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:CVillarreal3@patriots.uttyler.edu"
-- icon: cv
-  icon_pack: ai
-  link: 'static/media/cv_CandiceH.pdf'
+#- icon: cv
+#  icon_pack: ai
+#  link: 'static/media/cv_CandiceH.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

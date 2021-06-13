@@ -53,6 +53,6 @@ abstract: 'Introduction: Social distancing and sheltering-in-place mitigate the 
   findings highlight how social engagement was experienced early in the U.S. COVID-19
   crisis.'
 publication: '*Journal of Social and Clinical Psychology*'
-url_pdf: https://guilfordjournals.com/doi/abs/10.1521/jscp.2020.39.10.923
+url_pdf: publication/mcguire-social-2020/mcguire2020_social.pdf
 doi: 10.1521/jscp.2020.39.10.923
 ---

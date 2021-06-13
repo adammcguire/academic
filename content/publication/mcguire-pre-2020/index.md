@@ -57,6 +57,6 @@ abstract: 'Posttraumatic stress disorder (PTSD) is characterized by strong negat
   improvements in only select emotions accounted for a significant portion of improvement
   in relevant treatment outcomes.'
 publication: '*Traumatology*'
-url_pdf: http://doi.apa.org/getdoi.cfm?doi=10.1037/trm0000258
+url_pdf: publication/mcguire-pre-2020/mcguire2020_pre.pdf
 doi: 10.1037/trm0000258
 ---

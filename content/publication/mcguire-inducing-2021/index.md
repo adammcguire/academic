@@ -55,6 +55,6 @@ abstract: Moral elevation is a positive emotion described as feeling inspired by
   results highlight specific benefits of elevation and potential targets for treatment
   integration and future exploration.
 publication: '*Journal of Experimental Psychopathology*'
-url_pdf: https://doi.org/10.1177/2043808720982415
+url_pdf: publication/mcguire-inducing-2021/mcguire2021_inducing.pdf
 doi: 10.1177/2043808720982415
 ---

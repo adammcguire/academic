@@ -41,9 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:awurm@patriots.uttyler.edu"
-- icon: cv
-  icon_pack: ai
-  link: 'static/media/cv_AnnikaW.pdf'
+#- icon: cv
+#  icon_pack: ai
+#  link: 'static/media/cv_AnnikaW.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

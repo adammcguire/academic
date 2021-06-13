@@ -52,6 +52,5 @@ abstract: Posttraumatic stress disorder (PTSD) is a major health concern among v
   PTSD symptoms were associated with higher levels of intolerance of uncertainty,
   which in turn were related to increased levels of depression symptoms.
 publication: '*Journal of Black Psychology*'
-url_pdf: http://journals.sagepub.com/doi/10.1177/0095798418809201
 doi: 10.1177/0095798418809201
 ---
