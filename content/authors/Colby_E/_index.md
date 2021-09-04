@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -52,6 +52,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Other Research Personnel
 ---
-I am interested broadly in understanding what leads individuals to voluntary and involuntary social withdrawal. My specific research interests include the phenomenon of acute social withdrawal, anxiety disorders, particularly social anxiety disorder and agoraphobia. My current research is focused on understanding social isolation. 
+I am interested broadly in understanding what leads individuals to social withdrawal. My specific research interests include the phenomenon of acute social withdrawal, anxiety disorders, particularly social anxiety disorder and agoraphobia. My current research is focused on understanding social isolation. 

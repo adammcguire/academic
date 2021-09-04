@@ -1,24 +1,25 @@
 ---
 # Display name
-title: Gracie Staley
+title: Binh An Nguyen Howard
 
 # Username (this should match the folder name)
 authors:
-- Gracie_S
+- BinhAn_H
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Lab Manager
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Tyler
+- name: VISN 17 Center of Excellence for Research on Returning War Veterans
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "" 
+
 
 #interests:
 #- interest 1
@@ -27,11 +28,8 @@ bio: ""
 
 education:
   courses:
-  - course: MS in Clinical Psychology
-    institution: The University of Texas at Tyler, Tyler, TX
-    year: Expected 2021
   - course: BA in Psychology
-    institution: The University of Texas at Austin, Austin, TX
+    institution: Tarleton State University, Waco, TX
     year: 2019
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,10 +38,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:gstaley@patriots.uttyler.edu"
+  link: "mailto:binhannguyen254@gmail.com "
 #- icon: cv
 #  icon_pack: ai
-#  link: 'static/media/cv_GracieS.pdf'
+#  link: 'static/media/cv_ColbyE.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -56,4 +54,4 @@ highlight_name: false
 user_groups:
 - Other Research Personnel
 ---
-My research interest is targeted for a veteran population. I have a special soft spot for survivors of sexual assault. Specifically, I enjoy looking at the impact of stigma, improving treatments, PTSD, and moral injury.
+My research interests centers around identity development across various domains (i.e., ethnic/racial, academic, and parental identity) and the links between identity and health risk behaviors, psychological disorder, and psychosocial functioning. Specifically, I am interested in understanding the role identity development has on health risk behaviors (e.g., alcohol use, toxic relationships, etc.), depression and anxiety, and educational achievement among adolescents and emerging adults from underrepresented populations. 

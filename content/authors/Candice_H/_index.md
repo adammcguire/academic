@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2nd Year PhD Student
+role: 3rd Year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -38,6 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:CVillarreal3@patriots.uttyler.edu"
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=9UCpcT0AAAAJ
 #- icon: cv
 #  icon_pack: ai
 #  link: 'static/media/cv_CandiceH.pdf'

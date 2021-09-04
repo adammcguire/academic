@@ -29,7 +29,7 @@ education:
   courses:
   - course: MS in  Clinical Psychology
     institution: The University of Texas at Tyler, Tyler, TX
-    year: Expected 2021
+    year: Expected 2022
   - course: BS in  Biology
     institution: The University of North Carolina at Chapel Hill, Chapel Hill, NC
     year: 2018
@@ -41,6 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:awurm@patriots.uttyler.edu"
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=6ofhDRQAAAAJ
 #- icon: cv
 #  icon_pack: ai
 #  link: 'static/media/cv_AnnikaW.pdf'

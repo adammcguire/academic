@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2nd Year MS Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -52,6 +52,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Other Research Personnel
 ---
 I am a graduate student in the MS Clinical Psychology program at the University of Texas at Tyler. I have worked as a teacher of English language and literature for 8 years. After I graduate, I plan to seek licensure as a Licensed Psychological Associate in Texas. My future plans include pursuing a PhD in Clinical Psychology to become a licensed psychologist and a university professor.
