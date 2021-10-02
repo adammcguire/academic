@@ -38,6 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:khenley@patriots.uttyler.edu"
+- icon: linkedin
+  icon_pack: fab
+  link: "linkedin.com/in/katrina-henley-a375b4191"
 #- icon: cv
 #  icon_pack: ai
 #  link: 'static/media/cv_KatrinaH.pdf'
@@ -53,4 +56,4 @@ highlight_name: false
 user_groups:
 - Undergraduate Students
 ---
-My research interests revolve around PTSD specific in sexual assault survivors in civilian life and in the military. I enjoy research that looks into the shame and tramatic responses that follow a sexual assault as well as how to change the stigma of being a sexual assault survivor. 
+My research interests include trauma related emotions and responses in sexual assault victims. My interests also include empathy, specifically, how empathy relates to the stigma of trauma and mental health.

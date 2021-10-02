@@ -13,16 +13,16 @@ image:
   focal_point: Smart
 
 links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Add below links above when OSF link is ready:
-#- icon: osf
-#  icon_pack: ai
-#  name: OSF Page
-#  url: https://osf.io/
+- icon: osf
+  icon_pack: ai
+  name: OSF Page
+  url: https://osf.io/nzbfx/
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

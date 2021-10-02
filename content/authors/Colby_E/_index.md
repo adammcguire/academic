@@ -54,4 +54,4 @@ highlight_name: false
 user_groups:
 - Other Research Personnel
 ---
-I am interested broadly in understanding what leads individuals to social withdrawal. My specific research interests include the phenomenon of acute social withdrawal, anxiety disorders, particularly social anxiety disorder and agoraphobia. My current research is focused on understanding social isolation. 
+My research interests include anxiety disorders and social isolation. Regarding anxiety disorders, I am interested in the environmental predictors of anxiety in children and adults as well as the neuroscientific effects of those predictors. Within social isolation I am interested in creating a better framework to measure the severity of social isolation, and its effects, and applying that framework to understand predicting factors such as socio-economic status and family dysfunction.
