@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Former MS Student
 
 # Organizations/Affiliations
 organizations:
