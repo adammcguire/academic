@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Former Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Tyler
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,15 +29,15 @@ education:
   courses:
   - course: BS in Psychology
     institution: University of Texas at Tyler, Tyler, TX
-    year: Expected 2022
+    year: 2022
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:avieirazaidan@patriots.uttyler.edu"
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:avieirazaidan@patriots.uttyler.edu"
 #- icon: cv
 #  icon_pack: ai
 #  link: 'static/media/cv_AnaZ.pdf'
@@ -51,6 +51,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Lab Alumni
 ---
-I am a Psychology B.S. with a Minor in Health, my research interests are: The link between mental and physical health (how exercise impacts on constructs like anxiety and working memory), the experience and perceptions of International Students and Bicultural individuals, and mental health in LGBTQ+ individuals

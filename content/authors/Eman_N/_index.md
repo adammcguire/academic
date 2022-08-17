@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Lab Members
 ---
 My research interests broadly include trauma/PTSD, as well as anxiety and depression. I am particularly interested in researching the impacts of intergenerational trauma on families and communities and exploring therapy mechanisms for increasing positive wellbeing and resilience to help people overcome difficulties and live meaningful lives.

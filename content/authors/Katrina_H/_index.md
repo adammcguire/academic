@@ -27,9 +27,9 @@ bio: ""
 
 education:
   courses:
-  - course: BS in  Psychology
+  - course: BA in  Psychology
     institution: University of Texas at Tyler, Tyler, TX
-    year: Expected 2023
+    year: Expected 2022
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,6 +54,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Lab Members
 ---
-My research interests include trauma related emotions and responses in sexual assault victims. My interests also include empathy, specifically, how empathy relates to the stigma of trauma and mental health.
+My research interests broadly include trauma and community response. More specifically, in the trauma category, I am interested in sexual assault survivors, intimate partner violence, PTSD, and reproductive health. In the community response category, I am interested in programs designed for those in crisis and community outreach.

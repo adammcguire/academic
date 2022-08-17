@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 3rd Year PhD Student
+role: 4th Year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -54,6 +54,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Lab Members
 ---
 My research interests center around examining social factors that contribute to the onset and maintenance of substance use disorder (SUD), and substance use recovery (SUR). Specifically, I am interested in examining the different models of SUR and how they influence the individual’s personal wellbeing. Additionally, I have an interest in working with veterans who experience comorbid posttraumatic stress disorder and SUD. Outside of research, I am passionate about helping underrepresented students gain access to academic opportunities in the field of psychology.

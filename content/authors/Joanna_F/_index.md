@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2nd Year PhD Student
+role: 3rd Year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -50,6 +50,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Lab Members
 ---
 My research interests entail examining how mental health influences veteran functioning, whether it be in work, social, or familial contexts.  Specifically, how disorders like PTSD, anxiety, and depression effect veteran and military member transitions after deployments, trauma, experiences of grief (i.e. losing fellow soldiers).  Other interests involve studying the mechanisms that underly non-suicidal self-injury and suicidal ideation as well as how they can be targeted to improve clinical treatments for military members–-keeping in mind the specific environment of the military.

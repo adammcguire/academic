@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 1st Year PhD Student
+role: 2nd Year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -50,6 +50,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Lab Members
 ---
 My research interests primarily relate to the development and expression of post-traumatic stress disorder in adolescents and adults. I am particularly interested in the development and expression of complex-post traumatic stress disorder, and in the efficacy of positive psychology treatment methods for complex forms of trauma. My research background relates to the effects of shame on learning, and I am interested in exploring how shame and guilt impact one’s ability to recover from trauma.

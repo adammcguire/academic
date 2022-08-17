@@ -17,16 +17,10 @@ links:
   icon_pack: 
   name: NIH Clinical Trials
   url: https://www.clinicaltrials.gov/ct2/show/NCT03906240?cond=moral+injury&draw=2&rank=3
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Add below links above when OSF link is ready:
-#- icon: osf
-#  icon_pack: ai
-#  name: OSF Page
-#  url: https://osf.io/
+- icon: osf
+  icon_pack: ai
+  name: OSF Page
+  url: https://osf.io/bprx8/
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

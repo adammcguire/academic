@@ -21,15 +21,15 @@ advanced:
 
 We accept undergraduate and graduate students who are interested in gaining more research experience working with veterans, PTSD or other forms of trauma-related distress, and/or integrating positive psychology with mental health treatment. We offer opportunities to learn more about these specific areas of research, participate in active projects, and gain experience disseminating research. 
 
-**_Dr. McGuire plans to accept a new PhD student to start in Fall 2022 under the Clinical Psychology PhD Program at the University of Texas at Tyler._**
+**_Dr. McGuire plans to accept a new PhD student to start in Fall 2023 under the Clinical Psychology PhD Program at the University of Texas at Tyler._**
 <br/><br/>
 
 ## **Join as a PhD Student**
-The Clinical Psychology PhD program at the University of Texas at Tyler is a funded doctoral program that recently started with its inaugural class in 2019. Our program offers unique opportunities to obtain specialized training in working with underserved populations including veterans, geropsychology, and rural mental health. We are in the process of becoming APA accredited after submitting our self-study to APA this summer, with hopes to secure contingent accreditation by Fall 2022. For more information, please visit the program website [here](https://www.uttyler.edu/psychology/graduate/phd-clinical-psychology/).
+The Clinical Psychology PhD program at the University of Texas at Tyler is a funded doctoral program that recently started with its inaugural class in 2019. Our program offers unique opportunities to obtain specialized training in working with underserved populations including veterans, geropsychology, and rural mental health. We are in the process of becoming APA accredited after submitting our self-study to APA last summer, with hopes to secure contingent accreditation by Fall 2023. For more information, please visit the program website [here](https://www.uttyler.edu/psychology/graduate/phd-clinical-psychology/).
 
 The PhD program uses a mentorship model, so students accepted to work with Dr. McGuire will play a significant role in the lab, receive direct supervision from Dr. McGuire through weekly meetings, and are also encouraged to pursue their own line of research consistent with their individual goals and interests.
 
-Applications are open October 2021 and the deadline for submission is January 15, 2022. Please feel free to email Dr. McGuire with any questions about the program, lab, or any other research inquiries. Prospective applicants should also include a brief description of their research interests and CV. Also, please feel free to email current PhD students to inquire about their experiences with the program and lab in general.
+Please feel free to email Dr. McGuire with any questions about the program, lab, or any other research inquiries. Prospective applicants should also include a brief description of their research interests and CV. Also, please feel free to email current PhD students to inquire about their experiences with the program and lab in general.
 <br/><br/>
 
 ## **Join as a UT Tyler Master’s or Undergraduate Student** 

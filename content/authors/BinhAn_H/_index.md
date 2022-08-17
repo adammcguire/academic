@@ -52,6 +52,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Other Research Personnel
+- Lab Members
 ---
 My research interests centers around identity development across various domains (i.e., ethnic/racial, academic, and parental identity) and the links between identity and health risk behaviors, psychological disorder, and psychosocial functioning. Specifically, I am interested in understanding the role identity development has on health risk behaviors (e.g., alcohol use, toxic relationships, etc.), depression and anxiety, and educational achievement among adolescents and emerging adults from underrepresented populations. 

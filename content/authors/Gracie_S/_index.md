@@ -54,6 +54,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Other Research Personnel
+- Lab Members
 ---
 My research interest is targeted for a veteran population. I have a special soft spot for survivors of sexual assault. Specifically, I enjoy looking at the impact of stigma, improving treatments, PTSD, and moral injury.

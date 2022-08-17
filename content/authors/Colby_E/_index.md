@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Former Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Tyler
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -36,9 +36,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:celmore3@patriots.uttyler.edu"
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:celmore3@patriots.uttyler.edu"
 #- icon: cv
 #  icon_pack: ai
 #  link: 'static/media/cv_ColbyE.pdf'
@@ -52,6 +52,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Other Research Personnel
+- Lab Alumni
 ---
-My research interests include anxiety disorders and social isolation. Regarding anxiety disorders, I am interested in the environmental predictors of anxiety in children and adults as well as the neuroscientific effects of those predictors. Within social isolation I am interested in creating a better framework to measure the severity of social isolation, and its effects, and applying that framework to understand predicting factors such as socio-economic status and family dysfunction.

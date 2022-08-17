@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 2nd Year MS Student
+role: Former MS Student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Tyler
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ education:
   courses:
   - course: MS in  Clinical Psychology
     institution: The University of Texas at Tyler, Tyler, TX
-    year: Expected 2022
+    year: 2022
   - course: BS in  Biology
     institution: The University of North Carolina at Chapel Hill, Chapel Hill, NC
     year: 2018
@@ -38,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:awurm@patriots.uttyler.edu"
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:awurm@patriots.uttyler.edu"
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=6ofhDRQAAAAJ
@@ -57,6 +57,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Lab Alumni
 ---
-My research interests broadly pertain to trauma, PTSD, and moral injury, particularly in veteran populations. I am interested in how traumatic events shape how we relate to the world and those around us, how and why trauma responses differ from person to person, and how violence is perpetuated. I am currently studying how third-wave therapy interventions can effectively treat and spark resilience in individuals suffering from PTSD and the effects of trauma.
