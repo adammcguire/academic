@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2nd Year MS Student
+role: Former MS Student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: MS in  Clinical Psychology
     institution: The University of Texas at Tyler, Tyler, TX
-    year: Expected 2022
+    year: 2022
   - course: BA in  Sociology
     institution: The University of Texas at Austin, Austin, TX
     year: 2017
@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Lab Alumni
 ---
 My research interests broadly include trauma/PTSD, as well as anxiety and depression. I am particularly interested in researching the impacts of intergenerational trauma on families and communities and exploring therapy mechanisms for increasing positive wellbeing and resilience to help people overcome difficulties and live meaningful lives.

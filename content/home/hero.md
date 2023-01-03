@@ -17,7 +17,9 @@ design:
     padding: ["40px", "10px", "20px", "10px"]  
 advanced:
   #css_class: fullscreen
-  
+ 
 ---
 
 <center>{{<figure src="Elevate_LogoV3.png" >}}
+
+{{< youtube kokoaChxut4 >}}

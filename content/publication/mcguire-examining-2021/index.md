@@ -21,7 +21,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+image: 
   caption: ''
   focal_point: ''
   preview_only: false
@@ -52,3 +52,5 @@ publication: '*The Journal of Nervous and Mental Disease*'
 url_pdf: publication/mcguire-examining-2021/mcguire2021_examining.pdf
 doi: 10.1097/NMD.0000000000001252
 ---
+
+{{< youtube t2zorWeSddI >}}

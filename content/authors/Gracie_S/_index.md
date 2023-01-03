@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Former MS Student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: MS in Clinical Psychology
     institution: The University of Texas at Tyler, Tyler, TX
-    year: Expected 2021
+    year: 2021
   - course: BA in Psychology
     institution: The University of Texas at Austin, Austin, TX
     year: 2019
@@ -54,6 +54,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Lab Alumni
 ---
 My research interest is targeted for a veteran population. I have a special soft spot for survivors of sexual assault. Specifically, I enjoy looking at the impact of stigma, improving treatments, PTSD, and moral injury.
