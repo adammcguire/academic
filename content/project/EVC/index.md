@@ -3,7 +3,8 @@ title: Elevation Video Catalog
 summary: Developing a catalog of videos that can be used to elicit moral elevation across a wide range of people.
 tags:
 - UT Tyler
-date: "2019-10-24T00:00:00Z"
+#date: "2019-10-24T00:00:00Z"
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

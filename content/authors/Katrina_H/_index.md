@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Former Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -54,6 +54,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Lab Alumni
 ---
 My research interests broadly include trauma and community response. More specifically, in the trauma category, I am interested in sexual assault survivors, intimate partner violence, PTSD, and reproductive health. In the community response category, I am interested in programs designed for those in crisis and community outreach.

@@ -3,7 +3,8 @@ title: Project SERVICE
 summary: Investigating the experiences and benefits of veterans engaged in volunteer work.
 tags:
 - UT Tyler
-date: "2021-01-31T00:00:00Z"
+#date: "2021-01-31T00:00:00Z"
+weight: 6
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

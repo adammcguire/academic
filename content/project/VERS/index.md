@@ -3,7 +3,8 @@ title: Veterans Elevation Response Study (VERS)
 summary: Experimental study investigating how veterans with PTSD respond to moral elevation stimuli in a controlled environment.
 tags:
 - VA
-date: "2018-03-01T00:00:00Z"
+#date: "2018-03-01T00:00:00Z"
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -3,7 +3,8 @@ title: MOVED
 summary: Pilot trial of a web-based moral elevation intervention for veterans with PTSD and moral injury distress.
 tags:
 - VA
-date: "2020-09-01T00:00:00Z"
+#date: "2020-09-01T00:00:00Z"
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

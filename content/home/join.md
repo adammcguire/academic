@@ -3,6 +3,7 @@ widget: blank
 headless: false
 weight: 130
 title: "Join the Lab!"
+active: false
 
 design:
   color: '#BBBABA'
