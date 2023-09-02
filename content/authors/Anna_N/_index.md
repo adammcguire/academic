@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2nd Year PhD Student
+role: 3rd Year PhD Student
 
 # Organizations/Affiliations
 organizations:

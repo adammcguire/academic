@@ -70,6 +70,7 @@ abstract: Background Dispositional gratitude has been implicated as a psychologi
   risk for adverse mental health outcomes.
 publication: '*Journal of Psychiatric Research*'
 doi: 10.1016/j.jpsychires.2022.02.028
+url_pdf: publication/mcguire-dispositional-2022/mcguire2022_dispositional.pdf
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0022395622001108

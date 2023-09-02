@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 3rd Year MS Student
+role: Former MS Student
 
 # Organizations/Affiliations
 organizations:
@@ -57,6 +57,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Lab Alumni
 ---
-My research interests include the college student population and elements pertaining to them such as intergenerational trauma and the effects of chronic anxiety. I also have interests in concerns of diversity such as the development of counseling techniques that might better serve the underserved students and communities.

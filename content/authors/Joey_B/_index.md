@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 1st Year MS Student
+role: 2nd Year MS Student
 
 # Organizations/Affiliations
 organizations:

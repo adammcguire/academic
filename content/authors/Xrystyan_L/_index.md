@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lindsay Lange
+title: Xrystyan Lascano
 
 # Username (this should match the folder name)
 authors:
-- Lindsay_L
+- Xrystyan_L
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2nd Year PhD Student
+role: 1st Year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,13 +27,16 @@ bio: ""
 
 education:
   courses:
-  - course: MS in Clinical Psychology
-    institution: Baylor University, Waco, TX
-    year: 2019  
+  - course: MA in Education
+    institution: California State University, Sacramento, CA
+    year: 2020 
+  - course: BA in Psychology
+    institution: California State University, Sacramento, CA
+    year: 2017   
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:llange2@patriots.uttyler.edu"
+  link: "mailto:xlascano@patriots.uttyler.edu"
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -52,4 +55,4 @@ highlight_name: false
 user_groups:
 - Lab Members
 ---
-As a researcher, I am broadly interested in applying positive psychology and acceptance-based principles to treating moral injury and posttraumatic stress disorder (PTSD) in veterans. I am curious about the factors influencing well-being after morally injurious event exposure, particularly the complex interplay between posttraumatic growth and positive psychology constructs (i.e., moral elevation, meaning, and gratitude). A secondary research interest pertains to assessing, preventing, and treating moral injury among refugees and foreign aid workers. 
+My research interests include improving mental health treatments for underserved populations and exploring how to better identify the dimensions of traumatic adversity and victimization. I am particularly interested in the assessment of trauma in polyvictim, underserved populations to develop multifaceted interventions that can address the various types of victimization and more effectively treat and recover from trauma.

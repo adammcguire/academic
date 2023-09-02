@@ -8,7 +8,9 @@ abstract: "Social isolation is a relevant problem for veterans who are at risk f
 featured: false
 publication: "*PLoS ONE*"
 tags: ["COVID-19", "mental health", "Social and Behavioral Sciences", "social functioning", "social isolation", "veterans"]
-url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281575"
 doi: "10.1371/journal.pone.0281575"
+links: 
+- name: URL
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281575
 ---
 
