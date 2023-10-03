@@ -34,12 +34,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:llange2@patriots.uttyler.edu"
-#- icon: google-scholar
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=FTdhZGAAAAAJ
+#- icon: osf
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: cv
-#  icon_pack: ai
-#  link: 'static/media/cv_JoannaF.pdf'
+#  link: https://osf.io/876pc/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1367-9502
+- icon: cv
+  icon_pack: ai
+  link: 'static/media/cv_LindsayL.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

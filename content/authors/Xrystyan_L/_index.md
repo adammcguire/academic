@@ -37,12 +37,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:xlascano@patriots.uttyler.edu"
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: cv
-#  icon_pack: ai
-#  link: 'static/media/cv_JoannaF.pdf'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=UWGXPxkAAAAJ&view_op=list_works&gmla=AP6z3OZyjwocNkxzC-ayMXy84EwouMMqWytOIe8J86LONtjT5fpSlbu0lmXc8avxFfh9IqoEfJldUXgDheejjUuP
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/q2dtr/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0006-0123-2649
+- icon: cv
+  icon_pack: ai
+  link: 'static/media/cv_XrystyanL.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
